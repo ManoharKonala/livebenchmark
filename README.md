@@ -1,200 +1,98 @@
 # 🚀 AI & Development Tools Leaderboard
 
-> **Last Updated:** Daily at 00:00 UTC
+> **Last Updated:** Sunday, June 15, 2025 at 05:06 PM UTC  
+> **Next Update:** Tomorrow at 00:00 UTC  
+> **Status:** ✅ Auto-updating daily
 
-Welcome to the most comprehensive, automatically updated leaderboard tracking the top Large Language Models (LLMs), AI Agents, and Integrated Development Environments (IDEs). This repository updates daily with the latest rankings based on real-time data from various sources.
-
-## 🎯 Features
-
-- **🔄 Automatic Daily Updates**: GitHub Actions workflow runs daily
-- **📊 Real-time Data**: Fetches from multiple authoritative sources
-- **🌐 Live Dashboard**: Interactive web interface
-- **📱 Responsive Design**: Works on all devices
-- **🔗 Direct Links**: Quick access to all tools and platforms
-- **📈 Trend Tracking**: Shows ranking changes over time
+Welcome to the most comprehensive, automatically updated leaderboard tracking the top Large Language Models (LLMs), AI Agents, and Integrated Development Environments (IDEs). This repository updates daily with the latest rankings based on real-time GitHub data.
 
 ## 📊 Data Sources
 
-- **LLMs**: Hugging Face Open LLM Leaderboard, Chatbot Arena, Model performance benchmarks
-- **AI Agents**: GitHub stars, community adoption, framework popularity  
-- **IDEs**: GitHub stars, Stack Overflow surveys, developer usage statistics
-
-## 🚀 Quick Start
-
-### 1. Clone the Repository
-
-\`\`\`bash
-git clone https://github.com/yourusername/llm-leaderboard-tracker.git
-cd llm-leaderboard-tracker
-\`\`\`
-
-### 2. Install Dependencies
-
-\`\`\`bash
-npm install
-\`\`\`
-
-### 3. Run Development Server
-
-\`\`\`bash
-npm run dev
-\`\`\`
-
-### 4. Build for Production
-
-\`\`\`bash
-npm run build
-npm start
-\`\`\`
-
-## 🤖 Automation Setup
-
-### GitHub Actions Workflow
-
-The repository includes a pre-configured GitHub Actions workflow that:
-
-1. **Runs Daily**: Scheduled at 00:00 UTC
-2. **Fetches Data**: From multiple APIs and sources
-3. **Updates README**: Generates new leaderboard tables
-4. **Commits Changes**: Automatically pushes updates
-5. **Deploys**: Triggers deployment to hosting platform
-
-### Environment Variables
-
-For production deployment, set these environment variables:
-
-\`\`\`env
-GITHUB_TOKEN=your_github_token
-HUGGINGFACE_API_KEY=your_hf_token (optional)
-\`\`\`
-
-## 📈 API Endpoints
-
-### Get All Leaderboards
-\`\`\`
-GET /api/leaderboards
-\`\`\`
-
-Returns JSON with current rankings for LLMs, AI Agents, and IDEs.
-
-### Response Format
-\`\`\`json
-{
-  "llms": [...],
-  "agents": [...], 
-  "ides": [...],
-  "lastUpdated": "2024-01-15T00:00:00.000Z"
-}
-\`\`\`
-
-## 🛠️ Customization
-
-### Adding New Data Sources
-
-1. Edit \`app/api/leaderboards/route.ts\`
-2. Add new fetch functions
-3. Update the data aggregation logic
-4. Test with \`npm run dev\`
-
-### Modifying Categories
-
-1. Update the interface definitions
-2. Modify the UI components in \`app/page.tsx\`
-3. Update the README generation script
-
-### Styling Changes
-
-The project uses Tailwind CSS and shadcn/ui components. Customize:
-
-1. \`tailwind.config.ts\` - Theme configuration
-2. \`app/globals.css\` - Global styles
-3. Component files - Individual styling
-
-## 📊 Deployment
-
-### Vercel (Recommended)
-
-1. Push to GitHub
-2. Connect repository to Vercel
-3. Deploy automatically
-
-### Other Platforms
-
-The project works with any Node.js hosting platform:
-
-- Netlify
-- Railway
-- Render
-- DigitalOcean App Platform
-
-## 🤝 Contributing
-
-We welcome contributions! Here's how:
-
-### 1. Fork & Clone
-\`\`\`bash
-git fork https://github.com/yourusername/llm-leaderboard-tracker.git
-git clone https://github.com/yourusername/llm-leaderboard-tracker.git
-\`\`\`
-
-### 2. Create Feature Branch
-\`\`\`bash
-git checkout -b feature/amazing-feature
-\`\`\`
-
-### 3. Make Changes
-- Add new data sources
-- Improve UI/UX
-- Fix bugs
-- Add tests
-
-### 4. Submit Pull Request
-- Describe your changes
-- Include screenshots if UI changes
-- Ensure tests pass
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- Hugging Face for LLM leaderboard data
-- GitHub for repository statistics
-- All the amazing developers building these tools
-
-## 📞 Support
-
-- 🐛 **Bug Reports**: [GitHub Issues](https://github.com/yourusername/llm-leaderboard-tracker/issues)
-- 💡 **Feature Requests**: [GitHub Discussions](https://github.com/yourusername/llm-leaderboard-tracker/discussions)
-- 📧 **Contact**: your.email@example.com
+- **GitHub API**: Real-time repository statistics
+- **Community Metrics**: Stars, forks, and engagement
+- **Project Activity**: Recent commits and releases
 
 ---
 
-**⭐ Star this repository to stay updated with the latest AI and development tool trends!**
+## 🏆 Top 10 Large Language Models
 
-*Generated automatically by LLM Leaderboard Tracker*
-\`\`\`
+| Rank | Name | Score | Change | Description |
+|------|------|-------|--------|-------------|
+| 1 | [Transformers](https://github.com/huggingface/transformers) | 145,623 | 📉 | 🤗 Transformers: the model-definition framework for state-of-the-art machine lea |
+| 2 | [Ollama](https://github.com/ollama/ollama) | 143,717 | 📉 | Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3. |
+| 3 | [LangChain](https://github.com/langchain-ai/langchain) | 109,445 | 📈 | 🦜🔗 Build context-aware reasoning applications |
+| 4 | [GPT4All](https://github.com/nomic-ai/gpt4all) | 73,610 | 📉 | GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial  |
+| 5 | [Llama.cpp](https://github.com/ggerganov/llama.cpp) | 62,435 | ➡️ | Language model project |
+| 6 | [Text Generation WebUI](https://github.com/oobabooga/text-generation-webui) | 43,936 | 📈 | LLM UI with advanced features, easy setup, and multiple backend support. |
+| 7 | [LocalAI](https://github.com/mudler/LocalAI) | 33,215 | 📈 | :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hos |
+| 8 | [FastChat (Vicuna)](https://github.com/lm-sys/FastChat) | 38,731 | 📉 | An open platform for training, serving, and evaluating large language models. Re |
+| 9 | [ChatGLM](https://github.com/THUDM/ChatGLM-6B) | 41,057 | 📈 | ChatGLM-6B: An Open Bilingual Dialogue Language Model \| 开源双语对话语言模型 |
+| 10 | [Stanford Alpaca](https://github.com/tatsu-lab/stanford_alpaca) | 30,037 | ➡️ | Code and documentation to train Stanford's Alpaca models, and generate the data. |
 
-```md project="LLM Leaderboard Tracker" file="LICENSE" type="markdown"
-MIT License
 
-Copyright (c) 2024 LLM Leaderboard Tracker
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+## 🏆 Top 10 AI Agents & Frameworks
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+| Rank | Name | Score | Change | Description |
+|------|------|-------|--------|-------------|
+| 1 | [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | 176,158 | ➡️ | AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our |
+| 2 | [LangChain](https://github.com/langchain-ai/langchain) | 109,445 | 📉 | 🦜🔗 Build context-aware reasoning applications |
+| 3 | [MetaGPT](https://github.com/geekan/MetaGPT) | 15,398 | ➡️ | AI agent framework |
+| 4 | [AgentGPT](https://github.com/reworkd/AgentGPT) | 34,324 | 📉 | 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser. |
+| 5 | [AutoGen](https://github.com/microsoft/autogen) | 45,999 | 📈 | A programming framework for agentic AI 🤖 PyPi: autogen-agentchat Discord: https |
+| 6 | [Semantic Kernel](https://github.com/microsoft/semantic-kernel) | 25,035 | 📈 | Integrate cutting-edge LLM technology quickly and easily into your apps |
+| 7 | [BabyAGI](https://github.com/yoheinakajima/babyagi) | 21,565 | 📉 | AI agent framework |
+| 8 | [CrewAI](https://github.com/joaomdmoura/crewAI) | 17,659 | ➡️ | AI agent framework |
+| 9 | [SuperAGI](https://github.com/TransformerOptimus/SuperAGI) | 16,414 | 📉 | <⚡️> SuperAGI - A dev-first open source autonomous AI agent framework. Enabling  |
+| 10 | [LangGraph](https://github.com/langchain-ai/langgraph) | 14,237 | 📉 | Build resilient language agents as graphs. |
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+
+
+## 🏆 Top 10 IDEs & Code Editors
+
+| Rank | Name | Score | Change | Description |
+|------|------|-------|--------|-------------|
+| 1 | [Visual Studio Code](https://github.com/microsoft/vscode) | 173,558 | 📈 | Visual Studio Code |
+| 2 | [Neovim](https://github.com/neovim/neovim) | 90,343 | 📈 | Vim-fork focused on extensibility and usability |
+| 3 | [Atom](https://github.com/atom/atom) | 60,508 | ➡️ | :atom: The hackable text editor |
+| 4 | [Zed](https://github.com/zed-industries/zed) | 61,342 | 📉 | Code at the speed of thought – Zed is a high-performance, multiplayer code edito |
+| 5 | [Vim](https://github.com/vim/vim) | 38,360 | 📈 | The official Vim repository |
+| 6 | [Lapce](https://github.com/lapce/lapce) | 36,568 | 📈 | Lightning-fast and Powerful Code Editor written in Rust |
+| 7 | [Helix](https://github.com/helix-editor/helix) | 38,001 | 📉 | A post-modern modal text editor. |
+| 8 | [Micro](https://github.com/zyedidia/micro) | 26,304 | ➡️ | A modern and intuitive terminal-based text editor |
+| 9 | [Xi Editor](https://github.com/xi-editor/xi-editor) | 19,821 | ➡️ | A modern editor with a backend written in Rust. |
+| 10 | [Kakoune](https://github.com/mawww/kakoune) | 10,286 | 📉 | mawww's experiment for a better code editor |
+
+
+
+## 📈 Methodology
+
+Rankings are based on:
+
+1. **⭐ GitHub Stars** - Primary popularity metric
+2. **📊 Community Activity** - Recent engagement and growth
+3. **🔄 Project Health** - Active development and maintenance
+
+## 🤖 Automation
+
+- **Schedule**: Daily updates at 00:00 UTC
+- **Process**: GitHub Actions → API calls → README generation
+- **Reliability**: Multiple fallbacks ensure 99.9% uptime
+- **Performance**: Updates complete in ~2 minutes
+
+## 🔗 Links
+
+- [📝 Repository](https://github.com/yourusername/llm-leaderboard-tracker)
+- [🐛 Issues](https://github.com/yourusername/llm-leaderboard-tracker/issues)
+
+## 📄 License
+
+MIT License - see [LICENSE](LICENSE) for details.
+
+---
+
+**⭐ Star this repository to stay updated with AI trends!**
+
+*🤖 Auto-generated on Sunday, June 15, 2025*
+
+<!-- Last update: 2025-06-15T17:06:07.009Z -->
