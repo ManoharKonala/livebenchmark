@@ -1,0 +1,54 @@
+name: 🤖 Daily Leaderboard Update
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Daily at midnight UTC
+  workflow_dispatch:      # Manual trigger
+  push:
+    branches: [ main ]
+    paths: [ 'scripts/**', '.github/workflows/**' ]
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    
+    steps:
+    - name: 📥 Checkout
+      uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        
+    - name: 🟢 Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '18'
+        
+    - name: 🔄 Update README
+      run: |
+        echo "🚀 Starting update..."
+        node scripts/update-readme.js
+        echo "✅ Update completed"
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        
+    - name: 📝 Commit changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "🤖 Leaderboard Bot"
+        
+        if [ -n "$(git status --porcelain)" ]; then
+          git add README.md
+          git commit -m "🤖 Daily leaderboard update - $(date +'%Y-%m-%d')"
+          git push
+          echo "✅ Changes pushed"
+        else
+          echo "ℹ️ No changes to commit"
+        fi
+        
+    - name: 📊 Summary
+      run: |
+        echo "## 🎉 Update Complete!" >> $GITHUB_STEP_SUMMARY
+        echo "- **Date**: $(date)" >> $GITHUB_STEP_SUMMARY
+        echo "- **Status**: ✅ Success" >> $GITHUB_STEP_SUMMARY
+        echo "- **Next**: Tomorrow at 00:00 UTC" >> $GITHUB_STEP_SUMMARY
