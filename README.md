@@ -1,6 +1,6 @@
 # 🚀 AI & Development Tools Leaderboard
 
-> **Last Updated:** Sunday, August 17, 2025 at 01:37 AM UTC  
+> **Last Updated:** Monday, August 18, 2025 at 01:28 AM UTC  
 > **Next Update:** Tomorrow at 00:00 UTC  
 > **Status:** ✅ Auto-updating daily
 
@@ -18,16 +18,16 @@ Welcome to the most comprehensive, automatically updated leaderboard tracking th
 
 | Rank | Name | Score | Change | Description |
 |------|------|-------|--------|-------------|
-| 1 | [Transformers](https://github.com/huggingface/transformers) | 148,414 | ➡️ | 🤗 Transformers: the model-definition framework for state-of-the-art machine lea |
-| 2 | [Ollama](https://github.com/ollama/ollama) | 150,332 | ➡️ | Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models. |
-| 3 | [LangChain](https://github.com/langchain-ai/langchain) | 113,638 | ➡️ | 🦜🔗 Build context-aware reasoning applications 🦜🔗 |
-| 4 | [GPT4All](https://github.com/nomic-ai/gpt4all) | 76,409 | 📈 | GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial  |
-| 5 | [Llama.cpp](https://github.com/ggerganov/llama.cpp) | 52,903 | ➡️ | Language model project |
-| 6 | [Text Generation WebUI](https://github.com/oobabooga/text-generation-webui) | 44,713 | 📈 | LLM UI with advanced features, easy setup, and multiple backend support. |
-| 7 | [LocalAI](https://github.com/mudler/LocalAI) | 34,677 | ➡️ | :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hos |
-| 8 | [FastChat (Vicuna)](https://github.com/lm-sys/FastChat) | 38,991 | ➡️ | An open platform for training, serving, and evaluating large language models. Re |
-| 9 | [ChatGLM](https://github.com/THUDM/ChatGLM-6B) | 63,574 | ➡️ | Language model project |
-| 10 | [Stanford Alpaca](https://github.com/tatsu-lab/stanford_alpaca) | 30,117 | 📉 | Code and documentation to train Stanford's Alpaca models, and generate the data. |
+| 1 | [Transformers](https://github.com/huggingface/transformers) | 148,442 | 📈 | 🤗 Transformers: the model-definition framework for state-of-the-art machine lea |
+| 2 | [Ollama](https://github.com/ollama/ollama) | 150,387 | 📉 | Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models. |
+| 3 | [LangChain](https://github.com/langchain-ai/langchain) | 113,676 | ➡️ | 🦜🔗 Build context-aware reasoning applications 🦜🔗 |
+| 4 | [GPT4All](https://github.com/nomic-ai/gpt4all) | 76,430 | 📈 | GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial  |
+| 5 | [Llama.cpp](https://github.com/ggerganov/llama.cpp) | 63,406 | ➡️ | Language model project |
+| 6 | [Text Generation WebUI](https://github.com/oobabooga/text-generation-webui) | 44,724 | 📈 | LLM UI with advanced features, easy setup, and multiple backend support. |
+| 7 | [LocalAI](https://github.com/mudler/LocalAI) | 34,691 | 📈 | :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hos |
+| 8 | [FastChat (Vicuna)](https://github.com/lm-sys/FastChat) | 38,993 | 📈 | An open platform for training, serving, and evaluating large language models. Re |
+| 9 | [ChatGLM](https://github.com/THUDM/ChatGLM-6B) | 23,914 | ➡️ | Language model project |
+| 10 | [Stanford Alpaca](https://github.com/tatsu-lab/stanford_alpaca) | 30,117 | 📈 | Code and documentation to train Stanford's Alpaca models, and generate the data. |
 
 
 
@@ -35,16 +35,16 @@ Welcome to the most comprehensive, automatically updated leaderboard tracking th
 
 | Rank | Name | Score | Change | Description |
 |------|------|-------|--------|-------------|
-| 1 | [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | 177,833 | 📉 | AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our |
-| 2 | [LangChain](https://github.com/langchain-ai/langchain) | 113,638 | 📈 | 🦜🔗 Build context-aware reasoning applications 🦜🔗 |
-| 3 | [MetaGPT](https://github.com/geekan/MetaGPT) | 26,522 | ➡️ | AI agent framework |
-| 4 | [AgentGPT](https://github.com/reworkd/AgentGPT) | 34,751 | 📉 | 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser. |
-| 5 | [AutoGen](https://github.com/microsoft/autogen) | 48,752 | 📈 | A programming framework for agentic AI 🤖 PyPi: autogen-agentchat Discord: https |
-| 6 | [Semantic Kernel](https://github.com/microsoft/semantic-kernel) | 25,825 | 📈 | Integrate cutting-edge LLM technology quickly and easily into your apps |
-| 7 | [BabyAGI](https://github.com/yoheinakajima/babyagi) | 21,741 | ➡️ | AI agent framework |
-| 8 | [CrewAI](https://github.com/joaomdmoura/crewAI) | 10,140 | ➡️ | AI agent framework |
-| 9 | [SuperAGI](https://github.com/TransformerOptimus/SuperAGI) | 16,638 | 📉 | <⚡️> SuperAGI - A dev-first open source autonomous AI agent framework. Enabling  |
-| 10 | [LangGraph](https://github.com/langchain-ai/langgraph) | 17,349 | 📈 | Build resilient language agents as graphs. |
+| 1 | [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | 177,854 | 📉 | AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our |
+| 2 | [LangChain](https://github.com/langchain-ai/langchain) | 113,676 | 📈 | 🦜🔗 Build context-aware reasoning applications 🦜🔗 |
+| 3 | [MetaGPT](https://github.com/geekan/MetaGPT) | 23,071 | ➡️ | AI agent framework |
+| 4 | [AgentGPT](https://github.com/reworkd/AgentGPT) | 34,759 | ➡️ | 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser. |
+| 5 | [AutoGen](https://github.com/microsoft/autogen) | 48,772 | 📈 | A programming framework for agentic AI 🤖 PyPi: autogen-agentchat Discord: https |
+| 6 | [Semantic Kernel](https://github.com/microsoft/semantic-kernel) | 25,832 | ➡️ | Integrate cutting-edge LLM technology quickly and easily into your apps |
+| 7 | [BabyAGI](https://github.com/yoheinakajima/babyagi) | 21,746 | ➡️ | AI agent framework |
+| 8 | [CrewAI](https://github.com/joaomdmoura/crewAI) | 14,946 | ➡️ | AI agent framework |
+| 9 | [SuperAGI](https://github.com/TransformerOptimus/SuperAGI) | 16,641 | 📉 | <⚡️> SuperAGI - A dev-first open source autonomous AI agent framework. Enabling  |
+| 10 | [LangGraph](https://github.com/langchain-ai/langgraph) | 17,385 | 📈 | Build resilient language agents as graphs. |
 
 
 
@@ -52,16 +52,16 @@ Welcome to the most comprehensive, automatically updated leaderboard tracking th
 
 | Rank | Name | Score | Change | Description |
 |------|------|-------|--------|-------------|
-| 1 | [Visual Studio Code](https://github.com/microsoft/vscode) | 175,811 | ➡️ | Visual Studio Code |
-| 2 | [Neovim](https://github.com/neovim/neovim) | 92,021 | 📉 | Vim-fork focused on extensibility and usability |
-| 3 | [Atom](https://github.com/atom/atom) | 60,565 | 📉 | :atom: The hackable text editor |
-| 4 | [Zed](https://github.com/zed-industries/zed) | 63,882 | 📉 | Code at the speed of thought – Zed is a high-performance, multiplayer code edito |
-| 5 | [Vim](https://github.com/vim/vim) | 38,782 | 📉 | The official Vim repository |
-| 6 | [Lapce](https://github.com/lapce/lapce) | 37,160 | 📉 | Lightning-fast and Powerful Code Editor written in Rust |
-| 7 | [Helix](https://github.com/helix-editor/helix) | 39,407 | 📈 | A post-modern modal text editor. |
-| 8 | [Micro](https://github.com/zyedidia/micro) | 26,688 | 📉 | A modern and intuitive terminal-based text editor |
-| 9 | [Xi Editor](https://github.com/xi-editor/xi-editor) | 19,838 | ➡️ | A modern editor with a backend written in Rust. |
-| 10 | [Kakoune](https://github.com/mawww/kakoune) | 10,407 | 📉 | mawww's experiment for a better code editor |
+| 1 | [Visual Studio Code](https://github.com/microsoft/vscode) | 175,834 | 📉 | Visual Studio Code |
+| 2 | [Neovim](https://github.com/neovim/neovim) | 92,055 | ➡️ | Vim-fork focused on extensibility and usability |
+| 3 | [Atom](https://github.com/atom/atom) | 60,568 | 📉 | :atom: The hackable text editor |
+| 4 | [Zed](https://github.com/zed-industries/zed) | 63,907 | 📈 | Code at the speed of thought – Zed is a high-performance, multiplayer code edito |
+| 5 | [Vim](https://github.com/vim/vim) | 38,788 | 📈 | The official Vim repository |
+| 6 | [Lapce](https://github.com/lapce/lapce) | 37,157 | 📈 | Lightning-fast and Powerful Code Editor written in Rust |
+| 7 | [Helix](https://github.com/helix-editor/helix) | 39,439 | 📉 | A post-modern modal text editor. |
+| 8 | [Micro](https://github.com/zyedidia/micro) | 26,693 | 📉 | A modern and intuitive terminal-based text editor |
+| 9 | [Xi Editor](https://github.com/xi-editor/xi-editor) | 19,836 | 📈 | A modern editor with a backend written in Rust. |
+| 10 | [Kakoune](https://github.com/mawww/kakoune) | 10,408 | 📈 | mawww's experiment for a better code editor |
 
 
 
@@ -93,6 +93,6 @@ MIT License - see [LICENSE](LICENSE) for details.
 
 **⭐ Star this repository to stay updated with AI trends!**
 
-*🤖 Auto-generated on Sunday, August 17, 2025*
+*🤖 Auto-generated on Monday, August 18, 2025*
 
-<!-- Last update: 2025-08-17T01:37:08.204Z -->
+<!-- Last update: 2025-08-18T01:28:26.731Z -->
