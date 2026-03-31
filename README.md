@@ -1,6 +1,6 @@
 # 🚀 AI & Development Tools Leaderboard
 
-> **Last Updated:** Monday, March 30, 2026 at 02:12 AM UTC  
+> **Last Updated:** Tuesday, March 31, 2026 at 02:07 AM UTC  
 > **Next Update:** Tomorrow at 00:00 UTC  
 > **Status:** ✅ Auto-updating daily
 
@@ -18,16 +18,16 @@ Welcome to the most comprehensive, automatically updated leaderboard tracking th
 
 | Rank | Name | Score | Change | Description |
 |------|------|-------|--------|-------------|
-| 1 | [Transformers](https://github.com/huggingface/transformers) | 158,531 | 📈 | 🤗 Transformers: the model-definition framework for state-of-the-art machine lea |
-| 2 | [Ollama](https://github.com/ollama/ollama) | 166,426 | ➡️ | Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemm |
-| 3 | [LangChain](https://github.com/langchain-ai/langchain) | 131,525 | 📈 | The agent engineering platform |
-| 4 | [GPT4All](https://github.com/nomic-ai/gpt4all) | 77,232 | 📈 | GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial  |
-| 5 | [Llama.cpp](https://github.com/ggerganov/llama.cpp) | 49,221 | ➡️ | Language model project |
-| 6 | [Text Generation WebUI](https://github.com/oobabooga/text-generation-webui) | 46,375 | 📈 | The original local LLM interface. Text, vision, tool-calling, training, and more |
-| 7 | [LocalAI](https://github.com/mudler/LocalAI) | 44,569 | 📈 | LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image |
-| 8 | [FastChat (Vicuna)](https://github.com/lm-sys/FastChat) | 39,460 | 📈 | An open platform for training, serving, and evaluating large language models. Re |
-| 9 | [ChatGLM](https://github.com/THUDM/ChatGLM-6B) | 67,968 | ➡️ | Language model project |
-| 10 | [Stanford Alpaca](https://github.com/tatsu-lab/stanford_alpaca) | 26,435 | ➡️ | Language model project |
+| 1 | [Transformers](https://github.com/huggingface/transformers) | 158,566 | 📈 | 🤗 Transformers: the model-definition framework for state-of-the-art machine lea |
+| 2 | [Ollama](https://github.com/ollama/ollama) | 166,520 | 📉 | Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemm |
+| 3 | [LangChain](https://github.com/langchain-ai/langchain) | 131,675 | 📈 | The agent engineering platform |
+| 4 | [GPT4All](https://github.com/nomic-ai/gpt4all) | 77,230 | 📉 | GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial  |
+| 5 | [Llama.cpp](https://github.com/ggerganov/llama.cpp) | 44,920 | ➡️ | Language model project |
+| 6 | [Text Generation WebUI](https://github.com/oobabooga/text-generation-webui) | 46,378 | 📈 | The original local LLM interface. Text, vision, tool-calling, training, and more |
+| 7 | [LocalAI](https://github.com/mudler/LocalAI) | 44,609 | 📉 | LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image |
+| 8 | [FastChat (Vicuna)](https://github.com/lm-sys/FastChat) | 39,459 | 📈 | An open platform for training, serving, and evaluating large language models. Re |
+| 9 | [ChatGLM](https://github.com/THUDM/ChatGLM-6B) | 38,776 | ➡️ | Language model project |
+| 10 | [Stanford Alpaca](https://github.com/tatsu-lab/stanford_alpaca) | 30,264 | ➡️ | Code and documentation to train Stanford's Alpaca models, and generate the data. |
 
 
 
@@ -35,16 +35,16 @@ Welcome to the most comprehensive, automatically updated leaderboard tracking th
 
 | Rank | Name | Score | Change | Description |
 |------|------|-------|--------|-------------|
-| 1 | [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | 182,932 | 📈 | AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our |
-| 2 | [LangChain](https://github.com/langchain-ai/langchain) | 131,525 | 📉 | The agent engineering platform |
-| 3 | [MetaGPT](https://github.com/geekan/MetaGPT) | 12,737 | ➡️ | AI agent framework |
-| 4 | [AgentGPT](https://github.com/reworkd/AgentGPT) | 35,904 | 📈 | 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser. |
-| 5 | [AutoGen](https://github.com/microsoft/autogen) | 56,405 | 📉 | A programming framework for agentic AI |
-| 6 | [Semantic Kernel](https://github.com/microsoft/semantic-kernel) | 27,589 | 📉 | Integrate cutting-edge LLM technology quickly and easily into your apps |
-| 7 | [BabyAGI](https://github.com/yoheinakajima/babyagi) | 22,214 | 📉 | AI agent framework |
-| 8 | [CrewAI](https://github.com/joaomdmoura/crewAI) | 15,577 | ➡️ | AI agent framework |
-| 9 | [SuperAGI](https://github.com/TransformerOptimus/SuperAGI) | 24,150 | ➡️ | AI agent framework |
-| 10 | [LangGraph](https://github.com/langchain-ai/langgraph) | 21,729 | ➡️ | AI agent framework |
+| 1 | [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | 182,958 | 📈 | AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our |
+| 2 | [LangChain](https://github.com/langchain-ai/langchain) | 131,675 | 📉 | The agent engineering platform |
+| 3 | [MetaGPT](https://github.com/geekan/MetaGPT) | 25,987 | ➡️ | AI agent framework |
+| 4 | [AgentGPT](https://github.com/reworkd/AgentGPT) | 35,909 | 📈 | 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser. |
+| 5 | [AutoGen](https://github.com/microsoft/autogen) | 56,463 | 📈 | A programming framework for agentic AI |
+| 6 | [Semantic Kernel](https://github.com/microsoft/semantic-kernel) | 27,598 | 📉 | Integrate cutting-edge LLM technology quickly and easily into your apps |
+| 7 | [BabyAGI](https://github.com/yoheinakajima/babyagi) | 22,213 | 📈 | AI agent framework |
+| 8 | [CrewAI](https://github.com/joaomdmoura/crewAI) | 18,485 | ➡️ | AI agent framework |
+| 9 | [SuperAGI](https://github.com/TransformerOptimus/SuperAGI) | 17,372 | 📉 | <⚡️> SuperAGI - A dev-first open source autonomous AI agent framework. Enabling  |
+| 10 | [LangGraph](https://github.com/langchain-ai/langgraph) | 27,965 | ➡️ | Build resilient language agents as graphs. |
 
 
 
@@ -52,16 +52,16 @@ Welcome to the most comprehensive, automatically updated leaderboard tracking th
 
 | Rank | Name | Score | Change | Description |
 |------|------|-------|--------|-------------|
-| 1 | [Visual Studio Code](https://github.com/microsoft/vscode) | 183,167 | ➡️ | Visual Studio Code |
-| 2 | [Neovim](https://github.com/neovim/neovim) | 97,602 | 📈 | Vim-fork focused on extensibility and usability |
-| 3 | [Atom](https://github.com/atom/atom) | 60,995 | 📈 | :atom: The hackable text editor |
-| 4 | [Zed](https://github.com/zed-industries/zed) | 78,119 | 📉 | Code at the speed of thought – Zed is a high-performance, multiplayer code edito |
-| 5 | [Vim](https://github.com/vim/vim) | 40,085 | 📈 | The official Vim repository |
-| 6 | [Lapce](https://github.com/lapce/lapce) | 38,187 | 📈 | Lightning-fast and Powerful Code Editor written in Rust |
-| 7 | [Helix](https://github.com/helix-editor/helix) | 43,666 | 📉 | A post-modern modal text editor. |
-| 8 | [Micro](https://github.com/zyedidia/micro) | 56,758 | ➡️ | Code editor |
+| 1 | [Visual Studio Code](https://github.com/microsoft/vscode) | 183,209 | 📉 | Visual Studio Code |
+| 2 | [Neovim](https://github.com/neovim/neovim) | 97,699 | 📈 | Vim-fork focused on extensibility and usability |
+| 3 | [Atom](https://github.com/atom/atom) | 60,969 | 📈 | :atom: The hackable text editor |
+| 4 | [Zed](https://github.com/zed-industries/zed) | 78,191 | 📉 | Code at the speed of thought – Zed is a high-performance, multiplayer code edito |
+| 5 | [Vim](https://github.com/vim/vim) | 40,092 | 📈 | The official Vim repository |
+| 6 | [Lapce](https://github.com/lapce/lapce) | 38,194 | 📈 | Lightning-fast and Powerful Code Editor written in Rust |
+| 7 | [Helix](https://github.com/helix-editor/helix) | 43,689 | 📈 | A post-modern modal text editor. |
+| 8 | [Micro](https://github.com/zyedidia/micro) | 75,649 | ➡️ | Code editor |
 | 9 | [Xi Editor](https://github.com/xi-editor/xi-editor) | 19,841 | 📈 | A modern editor with a backend written in Rust. |
-| 10 | [Kakoune](https://github.com/mawww/kakoune) | 10,806 | 📈 | mawww's experiment for a better code editor |
+| 10 | [Kakoune](https://github.com/mawww/kakoune) | 10,806 | 📉 | mawww's experiment for a better code editor |
 
 
 
@@ -93,6 +93,6 @@ MIT License - see [LICENSE](LICENSE) for details.
 
 **⭐ Star this repository to stay updated with AI trends!**
 
-*🤖 Auto-generated on Monday, March 30, 2026*
+*🤖 Auto-generated on Tuesday, March 31, 2026*
 
-<!-- Last update: 2026-03-30T02:12:30.698Z -->
+<!-- Last update: 2026-03-31T02:07:54.988Z -->
